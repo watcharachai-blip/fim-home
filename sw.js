@@ -1,5 +1,5 @@
 // เปลี่ยนเลขเวอร์ชันนี้ทุกครั้งที่แก้โค้ด เพื่อให้เครื่องผู้ใช้โหลดไฟล์ใหม่
-const CACHE = 'spend-v1';
+const CACHE = 'spend-v3';
 const SHELL = [
   './',
   './index.html',
